@@ -3,31 +3,31 @@ data;bairro;estado;cidade;Pais;percent;postal_code;long;lat
 15/06/2020;Vila Jardini;SP;Sorocaba;Brasil;6,12;18044-000;-47,4765701;-23,5105847
 15/06/2020;Jardim Rodrigo;SP;Sorocaba;Brasil;6,05;18071-400;-47,507144;-23,4723319
 15/06/2020;Vila Haro;SP;Sorocaba;Brasil;5,62;18015-005;-47,429667;-23,5013429
-15/06/2020;Júlio de Mesquita Filho;SP;Sorocaba;Brasil;4,62;;;
-15/06/2020;Jardim Maria do Carmo;SP;Sorocaba;Brasil;4,05;;;
-15/06/2020;Aparecidinha;SP;Sorocaba;Brasil;3,91;;;
-15/06/2020;Parque São Bento;SP;Sorocaba;Brasil;3,84;;;
-15/06/2020;Wanel Ville ;SP;Sorocaba;Brasil;3,84;;;
-15/06/2020;Jardim Vergueiro;SP;Sorocaba;Brasil;3,77;;;
-15/06/2020;Jardim São Guilherme;SP;Sorocaba;Brasil;3,63;;;
-15/06/2020;Vila Hortência;SP;Sorocaba;Brasil;3,63;;;
-15/06/2020;Parque das Laranjeiras ;SP;Sorocaba;Brasil;3,63;;;
-15/06/2020;Vila Mineirão ;SP;Sorocaba;Brasil;3,41;;;
-15/06/2020;Brigadeiro Tobias ;SP;Sorocaba;Brasil;2,92;;;
-15/06/2020;Vila Nova Sorocaba;SP;Sorocaba;Brasil;2,92;;;
-15/06/2020;Jardim Santa Catarina;SP;Sorocaba;Brasil;2,77;;;
-15/06/2020;Parque Vitoria Regia;SP;Sorocaba;Brasil;2,63;;;
-15/06/2020;Vila Barão;SP;Sorocaba;Brasil;2,49;;;
-15/06/2020;Éden;SP;Sorocaba;Brasil;2,35;;;
-15/06/2020;Cajuru do Sul;SP;Sorocaba;Brasil;2,13;;;
-15/06/2020;Vila Hortência;SP;Sorocaba;Brasil;2,13;;;
-15/06/2020;Vila Santana;SP;Sorocaba;Brasil;2,13;;;
-15/06/2020;Jardim Maria Eugenia;SP;Sorocaba;Brasil;2,06;;;
-15/06/2020;Jardim Simus;SP;Sorocaba;Brasil;1,92;;;
-15/06/2020;Vila Olimpia;SP;Sorocaba;Brasil;1,85;;;
-15/06/2020;Parque das Paineiras;SP;Sorocaba;Brasil;1,78;;;
+15/06/2020;Júlio de Mesquita Filho;SP;Sorocaba;Brasil;4,62;18053-000;-47,5160192;-23,5031298
+15/06/2020;Jardim Maria do Carmo;SP;Sorocaba;Brasil;4,05;18081-085;-47,4507785;-23,4762735
+15/06/2020;Aparecidinha;SP;Sorocaba;Brasil;3,91;18087-280;-47,374718;-23,4436886
+15/06/2020;Parque São Bento;SP;Sorocaba;Brasil;3,84;18072-120;-47,5101458;-23,4343404
+15/06/2020;Wanel Ville ;SP;Sorocaba;Brasil;3,84;18055-710;-47,5059385;-23,4947667
+15/06/2020;Jardim Vergueiro;SP;Sorocaba;Brasil;3,77;18030-005;-47,4530326;-23,5180018
+15/06/2020;Jardim São Guilherme;SP;Sorocaba;Brasil;3,63;18074-651;-47,4903572;-23,4472266
+15/06/2020;Vila Hortência;SP;Sorocaba;Brasil;3,63;18020-268;-47,4401462;-23,505699
+15/06/2020;Parque das Laranjeiras ;SP;Sorocaba;Brasil;3,63;18077-414;-47,4525603;-23,5015299
+15/06/2020;Vila Mineirão ;SP;Sorocaba;Brasil;3,41;18076-483;-47,4655351;-23,4660702
+15/06/2020;Brigadeiro Tobias ;SP;Sorocaba;Brasil;2,92;18108-185;-47,4525603;-23,5015299
+15/06/2020;Vila Nova Sorocaba;SP;Sorocaba;Brasil;2,92;18070-679;;
+15/06/2020;Jardim Santa Catarina;SP;Sorocaba;Brasil;2,77;18078-344;;
+15/06/2020;Parque Vitoria Regia;SP;Sorocaba;Brasil;2,63;18078-344;;
+15/06/2020;Vila Barão;SP;Sorocaba;Brasil;2,49;18061-250;;
+15/06/2020;Éden;SP;Sorocaba;Brasil;2,35;18103-050;;
+15/06/2020;Cajuru do Sul;SP;Sorocaba;Brasil;2,13;18105-000;;
+15/06/2020;Vila Hortência;SP;Sorocaba;Brasil;2,13;18020-268;;
+15/06/2020;Vila Santana;SP;Sorocaba;Brasil;2,13;18080-704;;
+15/06/2020;Jardim Maria Eugenia;SP;Sorocaba;Brasil;2,06;18074-530;;
+15/06/2020;Jardim Simus;SP;Sorocaba;Brasil;1,92;18055-141;;
+15/06/2020;Vila Olimpia;SP;Sorocaba;Brasil;1,85;18075-130;;
+15/06/2020;Parque das Paineiras;SP;Sorocaba;Brasil;1,78;18078-619;;
 15/06/2020;Jardim Carandá;SP;Sorocaba;Brasil;1,56;18073-100;;
-15/06/2020;Vila Sabiá ;SP;Sorocaba;Brasil;1,49;;;
+15/06/2020;Vila Sabiá ;SP;Sorocaba;Brasil;1,49;18022-160;;
 15/06/2020;Jardim Nova Esperanca;SP;Sorocaba;Brasil;1,42;18061-456;;
-15/06/2020;Vila Angélica;SP;Sorocaba;Brasil;1,21;;;
-15/06/2020;Habiteto - Ana Paula Eleutério;SP;Sorocaba;Brasil;0,92;;;
+15/06/2020;Vila Angélica;SP;Sorocaba;Brasil;1,21;18070-273;;
+15/06/2020;Habiteto - Ana Paula Eleutério;SP;Sorocaba;Brasil;0,92;18079-728;;
