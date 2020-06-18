@@ -25,9 +25,9 @@ Dashboard com informações de novos casos e óbitos do COVID-19 em Sorocaba/SP.
 - http://www.sorocaba.sp.gov.br/coronavirus/
 
 <img src="https://i.ibb.co/R4gtFLc/dashboard-pc.png" alt="Dashboard-Coronavirus-Sorocaba" border="0"></a>
-<br><b>Versão MOBILE</b>
+<br><br><b>Versão MOBILE</b>
 <img src="https://i.ibb.co/mFSJktt/dashboard-mobile.png" alt="Dashboard-Coronavirus-Sorocaba-Mobile" border="0"></a>
 
 Link para Acesso:http://tinyurl.com/covidsor
-<br>
-</>Desenvolvido por:</b>Everton Gonçalves(everton.enrico@gmail.com)
+<br><br>
+<b>Desenvolvido por:</b>Everton Gonçalves(everton.enrico@gmail.com)
