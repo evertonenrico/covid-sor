@@ -28,6 +28,6 @@ Dashboard com informações de novos casos e óbitos do COVID-19 em Sorocaba/SP.
 <br><br><b>Versão MOBILE</b>
 <img src="https://i.ibb.co/mFSJktt/dashboard-mobile.png" alt="Dashboard-Coronavirus-Sorocaba-Mobile" border="0"></a>
 
-Link para Acesso:http://tinyurl.com/covidsor
+Link para Acesso: https://app.powerbi.com/view?r=eyJrIjoiY2I3ZjM1MTEtZjgyMi00YzdmLTg3OTctMzAwNTFmNzU3ZDE4IiwidCI6IjY2MGQ0MDE4LTdlMzktNGQyNy05MjVkLWRmNTY3OTk4YTkzOSJ9
 <br><br>
 <b>Desenvolvido por:</b>Everton Gonçalves(everton.enrico@gmail.com)
